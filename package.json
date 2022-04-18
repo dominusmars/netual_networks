@@ -1,0 +1,11 @@
+{
+  "name": "netual_networks",
+  "version": "1.0.0",
+  "description": "creating a Villila Javascript implementation of Netual Networks for Educational proposes Only. tm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
